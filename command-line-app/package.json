@@ -13,8 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@todoapp/business": "^0.0.8-alpha.0",
-    "@todoapp/frameworks": "^0.0.8-alpha.0"
+    "@todoapp/business": "^0.0.8-alpha.0"
   },
   "devDependencies": {
     "@types/node": "^16.10.2",
