@@ -1,7 +1,6 @@
 {
   "name": "root",
-  "private": true,
-  "scripts": {
+    "scripts": {
     "build": "tsc",
     "publish": "lerna run build && lerna publish"
   },
