@@ -20,5 +20,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "15a48cfe874fcf595200523eaf60e6fc34e8d68e"
+  "gitHead": "15a48cfe874fcf595200523eaf60e6fc34e8d68e",
+  "dependencies": {
+    "@todoapp/business": "^0.0.6-alpha.0"
+  }
 }
