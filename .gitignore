@@ -7,3 +7,5 @@ packages/*/src/**/*.d.ts
 packages/*/src/**/*.js
 packages/*/src/**/*.js.map
 .idea
+command-line-app/lib
+command-line-app/node_modules
