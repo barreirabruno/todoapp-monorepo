@@ -5,7 +5,7 @@
   "author": "brunobarreira <brunobarreirasilva@gmail.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/index.js",
+  "main": "lib/integration_features.js",
   "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib",
