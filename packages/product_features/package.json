@@ -1,6 +1,6 @@
 {
   "name": "@todoapp/product_features",
-  "version": "0.0.5-alpha.0",
+  "version": "0.0.7-alpha.0",
   "description": "> TODO: description",
   "author": "brunobarreira <brunobarreirasilva@gmail.com>",
   "homepage": "",
@@ -22,6 +22,6 @@
   },
   "gitHead": "15a48cfe874fcf595200523eaf60e6fc34e8d68e",
   "dependencies": {
-    "@todoapp/business": "^0.0.6-alpha.0"
+    "@todoapp/business": "^0.0.7-alpha.0"
   }
 }
