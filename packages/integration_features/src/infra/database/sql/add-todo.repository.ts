@@ -6,6 +6,6 @@ export class AddTodoRepository implements ImplAddTodoRepository {
 
     async addTodo(todo: Todo): Promise<Todo> {
         this.todoPersistenceArray.push(todo)
-        return Promise.resolve({id: "created", ...todo})
+        return Promise.resolve(todo)
     }
 }
