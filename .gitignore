@@ -2,4 +2,7 @@ node_modules/
 lerna-debug.log
 npm-debug.log
 packages/*/lib
+packages/*/src/**/*.d.ts
+packages/*/src/**/*.js
+packages/*/src/**/*.js.map
 .idea
