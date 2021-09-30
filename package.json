@@ -3,11 +3,14 @@
   "private": true,
   "scripts": {
     "build": "tsc",
-    "publish": "lerna run build && lerna publish --access=public"
+    "publish": "lerna run build && lerna publish"
   },
   "devDependencies": {
     "@types/node": "^16.10.2",
     "lerna": "^4.0.0",
     "typescript": "^4.4.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
